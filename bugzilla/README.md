@@ -1,0 +1,1 @@
+## Errbot Bugzilla plugin

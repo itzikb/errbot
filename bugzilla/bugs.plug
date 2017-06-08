@@ -1,0 +1,9 @@
+[Core]
+Name = Bugzilla
+Module = bugs
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Bugzilla plugin
