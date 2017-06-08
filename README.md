@@ -1,0 +1,2 @@
+# errbot
+Errbot plugins
